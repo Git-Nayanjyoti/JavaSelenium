@@ -28,7 +28,7 @@ public class JavaScriptExecutorDemo {
 		
 		//moving to the bottom of the page
 		js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
-		
+		 
 		WebElement element = null;
 		//scrolling to a specific element
 		js.executeScript("arguments[0].scrollIntoView();", element);

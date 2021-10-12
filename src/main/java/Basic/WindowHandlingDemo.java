@@ -27,7 +27,7 @@ public class WindowHandlingDemo {
 			//if its same do nothing
 			//if its not same, save it as child window
 		}
-		
+		 
 		//way 1
 		System.out.println("Printing using Iterator");
 		Iterator<String> it = windowHandles.iterator();

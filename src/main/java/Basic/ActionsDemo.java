@@ -27,9 +27,9 @@ public class ActionsDemo {
 		.doubleClick()
 		.build()
 		.perform();
-		
+		  
 		Thread.sleep(4000);
 		driver.quit();
-		
+		 
 	}
 }
