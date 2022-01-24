@@ -91,7 +91,7 @@ public class AppTest
 - [Gherkin](https://mvnrepository.com/artifact/io.cucumber/gherkin)
 - [Junit](https://mvnrepository.com/artifact/junit/junit)
 - [Selenium](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)
-## Authors
+## Author
 
 - [@Nayanjyoti Rabha](https://www.github.com/Git-Nayanjyoti)
 
