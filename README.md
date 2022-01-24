@@ -35,8 +35,8 @@ This repository will give you an idea of how we can create our own framework for
 ## Selenium Webdriver Setup
 ```java
     WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver();
-		driver.get("https://amzn.to/3EMovJx");
+    WebDriver driver = new ChromeDriver();
+    driver.get("https://amzn.to/3EMovJx");
 ```
 
 ## Basic Framework Structure
