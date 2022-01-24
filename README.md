@@ -31,7 +31,7 @@ This repository will give you an idea of how we can create our own framework for
   - Captures browser screen
 
 
-```
+
 ## Selenium Webdriver Setup
 ```java
     WebDriverManager.chromedriver().setup();
