@@ -39,7 +39,7 @@ This repository will give you an idea of how we can create our own framework for
     driver.get("https://amzn.to/3EMovJx");
 ```
 
-## Basic Framework Structure
+## Basic Test Structure
 ```java
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
